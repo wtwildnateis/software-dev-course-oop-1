@@ -1,4 +1,4 @@
-# Java Classes and Objects - Simple Classes
+# Java Classes OOP - Simple Classes
 
 ## Introduction
 
