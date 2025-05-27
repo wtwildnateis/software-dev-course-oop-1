@@ -59,16 +59,6 @@ mostly implemented, you just need to add the following two methods:
 | addAbsence | None       | void        | Adds an absence to the student's record                                        |
 | addBonusPoints | double points | void | Adds bonus points to the student's grade                                       |
 
-## Verifying Your Solution
-
-Once you have completed the exercises, run the tests in the tests folder to
-verify that your solutions are correct.
-
-> [!TIP]
-> If you want to run **all** of the tests at once, you can right-click on the
-> `src/test/java` folder and select `Run 'All Tests'`.  This will run all of
-> the tests in the project and show you the results in the `Run` tool window.
-
 You should also manually verify that your solution is correct by running the
 `ClassroomManager` class and interacting with the console UI in the bottom 
 terminal window.  You should be able to add students and teachers, and print
